@@ -43,3 +43,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamchendu&show_icons=true&locale=en&layout=compact" alt="imchendu" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamchendu&show_icons=true&title&title_color=ffffff&bg_color=000000&hide_border=true&text_color=ffffff&locale=en" alt="imachendu" /></p>
+
+<h3 align='center'>Thank you for visiting my profile! 😊</h3>
