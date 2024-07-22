@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  **I love code!**
 
-- 🌍  I'm based in **INDIA** - Hyderabad
+- 🌍  I'm open to roles in **Hyderabad**
 - 🧠  I'm learning React JS .
 - 🤝  I'm open to collaborating on **JavaScript** and **React JS** Project's 
 -  **📫 How to reach me**  : [iamchandrasekhar1023@gmail.com](mailto:iamchandrasekhar1023@gmail.com)
